@@ -1,6 +1,6 @@
 # C-code PBR Hi3DGen
 
-![image](https://github.com/Dahandla/Ccode-3D-Generator/blob/91f167015bf95ba6800e6672ae603b177e1028da/screenshot6.png)
+![image](https://github.com/Dahandla/C-code-PBR-Hi3DGen/blob/d733c045b2e5162991b40570a926ceba303deb87/Images/ScreenShot_1.png)
 
 **C-code PBR Hi3DGen** is a powerful toolkit for generating 3D models and PBR (Physically Based Rendering) textures from images, with seamless Blender integration and advanced texture variation tools. It is designed for artists, researchers, and developers who want to quickly create high-quality 3D assets from 2D images.
 
