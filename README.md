@@ -172,7 +172,7 @@ See [LICENSE](LICENSE) for details.
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
 - [RealESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - And all open-source contributors!
-- [Hunyuan3D-2.1 (Tencent)](https://huggingface.co/tencent/Hunyuan3D-2.1/tree/main/hunyuan3d-paintpbr-v2-1)
+- [Hunyuan3D-2.1 (Tencent)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)
 - [Hi3DGen Project Page](https://stable-x.github.io/Hi3DGen/)
 
 ---
