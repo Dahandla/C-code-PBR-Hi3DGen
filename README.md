@@ -163,7 +163,7 @@ See [LICENSE](LICENSE) for details.
 ## Acknowledgements
 
 - [Blender](https://www.blender.org/)
-- [PySide6](https://wiki.qt.io/Qt_for_Python)
+
 - [Diffusers](https://github.com/huggingface/diffusers)
 - [Stable Diffusion](https://stability.ai/)
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
