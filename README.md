@@ -125,7 +125,8 @@ C-code-PBR-Hi3DGen/
 ├── README.md                    # This file
 └── ...
 ```
-
+## Usage Video 
+https://www.youtube.com/playlist?list=PLNkqxVhFvsiRN9dkd8Z7yzOCnk6TDHHKt
 ---
 
 ## Troubleshooting
