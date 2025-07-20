@@ -174,6 +174,7 @@ See [LICENSE](LICENSE) for details.
 - And all open-source contributors!
 - [Hunyuan3D-2.1 (Tencent)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)
 - [Hi3DGen Project Page](https://stable-x.github.io/Hi3DGen/)
+- [mmgp Project Page](https://github.com/deepbeepmeep/mmgp).
 
 ---
 
