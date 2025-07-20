@@ -171,10 +171,11 @@ See [LICENSE](LICENSE) for details.
 - [Stable Diffusion](https://stability.ai/)
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
 - [RealESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [mmgp Project Page](https://github.com/deepbeepmeep/mmgp).
 - And all open-source contributors!
 - [Hunyuan3D-2.1 (Tencent)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)
 - [Hi3DGen Project Page](https://stable-x.github.io/Hi3DGen/)
-- [mmgp Project Page](https://github.com/deepbeepmeep/mmgp).
+
 
 ---
 
